@@ -183,6 +183,20 @@ ctk.CTkButton(root, text="Add exclusion", command=exclusion_selector).grid(
 exclusion_label = ctk.CTkLabel(root, text="Excluded: none", justify="left", anchor="w")
 exclusion_label.grid(row=8, column=0, columnspan=3, padx=10, pady=(0, 12), sticky="w")
 
+# Row 9: info
+INFO_TEXT = (
+    "1. Enter the date info (e.g. C4_October_26).\n"
+    "2. Choose the input CSV file.\n"
+    "3. Optionally choose an output folder (defaults to the input file's folder).\n"
+    "4. Add any exclusions.\n"
+    "5. Click Run. One file is created per location, with totals at the bottom, plus a Totals file that collates all chapter totals."
+)
+
+def show_info():
+    messagebox.showinfo("How to use", INFO_TEXT)
+
+ctk.CTkButton(root, text="Info", width=60, command=show_info).grid(row=9, column=0, padx=10, pady=8)
+
 # ---------------------- Main ------------------------------------------- /
 
 def main():
