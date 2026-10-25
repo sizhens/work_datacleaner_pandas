@@ -1,0 +1,201 @@
+Date,Amount,Donor Name,Donation_Type,Location
+2025-12-01,600,Bea Generous,recurring donation pledge,New York
+2025-12-05,120,Penny Wise,recurring donation pledge,New York
+2025-12-08,420,Ben Evolent,recurring donation pledge,New York
+2025-12-12,300,Owen Cash,recurring donation pledge,Chicago
+2025-12-15,240,Will Power,recurring donation pledge,Chicago
+2025-12-22,1200,Moe Money,recurring donation pledge,Phoenix
+2025-12-28,180,Olive Branch,recurring donation pledge,Los Angeles
+2026-01-01,50,Bea Generous,recurring donation payment,New York
+2026-01-05,10,Penny Wise,recurring donation payment,New York
+2026-01-05,500,Polly Esther,regular payment,Chicago
+2026-01-08,35,Ben Evolent,recurring donation payment,New York
+2026-01-11,25,Lou Pole,regular payment,Los Angeles
+2026-01-12,25,Owen Cash,recurring donation payment,Chicago
+2026-01-14,75,Rusty Nails,recurring donation pledge,New York
+2026-01-15,20,Will Power,recurring donation payment,Chicago
+2026-01-20,1000,Warren Peace,regular payment,New York
+2026-01-21,161.89,Anita Bath,regular payment,Los Angeles
+2026-01-22,100,Moe Money,recurring donation payment,Phoenix
+2026-01-25,20,Ella Vator,recurring donation pledge,Los Angeles
+2026-01-27,500,Dee Posit,recurring donation pledge,Chicago
+2026-01-28,15,Olive Branch,recurring donation payment,Los Angeles
+2026-01-31,75,Stan Dupp,regular payment,Houston
+2026-02-01,10,Rusty Nails,regular payment,New York
+2026-02-01,50,Bea Generous,recurring donation payment,New York
+2026-02-01,250,Dee Posit,regular payment,Chicago
+2026-02-01,250,Ray Gunn,regular payment,Chicago
+2026-02-02,100,Noah Fence,regular payment,Los Angeles
+2026-02-02,100,Sue Permarket,regular payment,Los Angeles
+2026-02-05,10,Penny Wise,recurring donation payment,New York
+2026-02-05,20,Jack Pott,recurring donation pledge,Houston
+2026-02-05,75,Ty Coon,regular payment,New York
+2026-02-05,500,Robin Banks,recurring donation pledge,Phoenix
+2026-02-06,10,Justin Case,regular payment,New York
+2026-02-07,20,Rusty Nails,regular payment,New York
+2026-02-07,250,Terry Bull,regular payment,Houston
+2026-02-08,35,Ben Evolent,recurring donation payment,New York
+2026-02-11,10,Hal Lelujah,recurring donation pledge,New York
+2026-02-11,150,Barb Dwyer,regular payment,Chicago
+2026-02-12,25,Owen Cash,recurring donation payment,Chicago
+2026-02-15,20,Will Power,recurring donation payment,Chicago
+2026-02-17,500,Lou Pole,regular payment,Los Angeles
+2026-02-18,75,Bill Ding,regular payment,Los Angeles
+2026-02-20,669.31,Fran Tic,regular payment,Phoenix
+2026-02-22,100,Moe Money,recurring donation payment,Phoenix
+2026-02-22,500,Phil Anthropist,regular payment,Phoenix
+2026-02-24,100,Artie Choke,regular payment,Houston
+2026-02-27,665.84,Paige Turner,recurring donation pledge,New York
+2026-02-28,15,Olive Branch,recurring donation payment,Los Angeles
+2026-02-28,40,Sal Monella,regular payment,New York
+2026-03-01,50,Bea Generous,recurring donation payment,New York
+2026-03-01,250,Paige Turner,recurring donation pledge,New York
+2026-03-05,10,Penny Wise,recurring donation payment,New York
+2026-03-05,40,Terry Bull,regular payment,Houston
+2026-03-07,134.61,Rich Mann,regular payment,Phoenix
+2026-03-08,35,Ben Evolent,recurring donation payment,New York
+2026-03-10,594.71,Rusty Nails,regular payment,New York
+2026-03-12,20,Ella Vator,regular payment,Los Angeles
+2026-03-12,25,Owen Cash,recurring donation payment,Chicago
+2026-03-15,20,Will Power,recurring donation payment,Chicago
+2026-03-15,150,Candace Spare,regular payment,New York
+2026-03-20,10,Paige Turner,regular payment,New York
+2026-03-22,100,Moe Money,recurring donation payment,Phoenix
+2026-03-23,5,Robin Banks,regular payment,Phoenix
+2026-03-28,15,Olive Branch,recurring donation payment,Los Angeles
+2026-03-28,500,Kay Oss,regular payment,New York
+2026-03-29,100,Anita Bath,regular payment,Los Angeles
+2026-04-01,50,Bea Generous,recurring donation payment,New York
+2026-04-01,1000,Sal Monella,recurring donation pledge,New York
+2026-04-05,10,Penny Wise,recurring donation payment,New York
+2026-04-08,5,Mona Lott,regular payment,Chicago
+2026-04-08,35,Ben Evolent,recurring donation payment,New York
+2026-04-09,75,Phil Anthropist,regular payment,Phoenix
+2026-04-12,25,Owen Cash,recurring donation payment,Chicago
+2026-04-12,500,Stan Dupp,regular payment,Houston
+2026-04-15,20,Will Power,recurring donation payment,Chicago
+2026-04-18,50,Jack Pott,regular payment,Houston
+2026-04-18,500,Jack Pott,regular payment,Houston
+2026-04-19,500,Terry Bull,regular payment,Houston
+2026-04-20,250,Artie Choke,regular payment,Houston
+2026-04-22,50,Mona Lott,regular payment,Chicago
+2026-04-22,100,Moe Money,recurring donation payment,Phoenix
+2026-04-23,100,Dee Posit,regular payment,Chicago
+2026-04-23,415.81,Noah Fence,regular payment,Los Angeles
+2026-04-24,281.68,Kay Oss,regular payment,New York
+2026-04-25,50,Doug Graves,regular payment,Phoenix
+2026-04-26,5,Carrie Oakey,regular payment,Phoenix
+2026-04-28,15,Olive Branch,recurring donation payment,Los Angeles
+2026-05-01,50,Bea Generous,recurring donation payment,New York
+2026-05-02,25,Ella Vator,regular payment,Los Angeles
+2026-05-03,757.72,Carrie Oakey,regular payment,Phoenix
+2026-05-05,10,Penny Wise,recurring donation payment,New York
+2026-05-05,10,Stan Dupp,regular payment,Houston
+2026-05-08,35,Ben Evolent,recurring donation payment,New York
+2026-05-09,12.15,Polly Esther,recurring donation pledge,Chicago
+2026-05-12,25,Owen Cash,recurring donation payment,Chicago
+2026-05-14,25,Terry Bull,regular payment,Houston
+2026-05-15,20,Will Power,recurring donation payment,Chicago
+2026-05-15,250,Dee Posit,regular payment,Chicago
+2026-05-15,1000,Rich Mann,regular payment,Phoenix
+2026-05-16,5,Sue Permarket,regular payment,Los Angeles
+2026-05-19,150,Holly Days,recurring donation pledge,Los Angeles
+2026-05-20,50,Cash Flo,regular payment,Houston
+2026-05-22,100,Moe Money,recurring donation payment,Phoenix
+2026-05-23,63.08,Ima Goodsport,regular payment,New York
+2026-05-23,132.64,Holly Days,regular payment,Los Angeles
+2026-05-27,150,Anita Bath,regular payment,Los Angeles
+2026-05-27,250,Carrie Oakey,regular payment,Phoenix
+2026-05-28,15,Olive Branch,recurring donation payment,Los Angeles
+2026-05-29,693.59,Doug Graves,recurring donation pledge,Phoenix
+2026-05-31,1000,Chris P. Bacon,regular payment,Phoenix
+2026-06-01,50,Bea Generous,recurring donation payment,New York
+2026-06-05,10,Penny Wise,recurring donation payment,New York
+2026-06-08,35,Ben Evolent,recurring donation payment,New York
+2026-06-09,50,Bill Ding,regular payment,Los Angeles
+2026-06-11,250,Barb Dwyer,regular payment,Chicago
+2026-06-12,25,Owen Cash,recurring donation payment,Chicago
+2026-06-15,20,Will Power,recurring donation payment,Chicago
+2026-06-15,72.07,Robin Banks,recurring donation pledge,Phoenix
+2026-06-16,25,Doug Graves,recurring donation pledge,Phoenix
+2026-06-17,20,Ray Gunn,regular payment,Chicago
+2026-06-19,500,Barb Dwyer,regular payment,Chicago
+2026-06-22,100,Moe Money,recurring donation payment,Phoenix
+2026-06-28,15,Olive Branch,recurring donation payment,Los Angeles
+2026-07-01,50,Bea Generous,recurring donation payment,New York
+2026-07-05,5,Gene Poole,regular payment,Los Angeles
+2026-07-05,10,Penny Wise,recurring donation payment,New York
+2026-07-05,409.09,Stan Dupp,regular payment,Houston
+2026-07-06,736.85,Bill Ding,regular payment,Los Angeles
+2026-07-08,35,Ben Evolent,recurring donation payment,New York
+2026-07-12,25,Owen Cash,recurring donation payment,Chicago
+2026-07-15,20,Will Power,recurring donation payment,Chicago
+2026-07-19,75,Paige Turner,regular payment,New York
+2026-07-19,336.96,Carrie Oakey,recurring donation pledge,Phoenix
+2026-07-22,100,Moe Money,recurring donation payment,Phoenix
+2026-07-22,100,Warren Peace,regular payment,New York
+2026-07-24,266.93,Hal Lelujah,regular payment,New York
+2026-07-26,199.23,Phil Anthropist,regular payment,Phoenix
+2026-07-28,15,Olive Branch,recurring donation payment,Los Angeles
+2026-07-28,25,Fran Tic,recurring donation pledge,Phoenix
+2026-07-30,649.17,Lou Pole,regular payment,Los Angeles
+2026-08-01,50,Bea Generous,recurring donation payment,New York
+2026-08-04,5,Robin Banks,regular payment,Phoenix
+2026-08-04,1000,Bill Ding,regular payment,Los Angeles
+2026-08-05,10,Penny Wise,recurring donation payment,New York
+2026-08-05,50,Ella Vator,regular payment,Los Angeles
+2026-08-05,604.95,Polly Esther,recurring donation pledge,Chicago
+2026-08-07,20,Hal Lelujah,regular payment,New York
+2026-08-08,35,Ben Evolent,recurring donation payment,New York
+2026-08-09,5,Cash Flo,regular payment,Houston
+2026-08-11,500,Cash Flo,regular payment,Houston
+2026-08-12,25,Owen Cash,recurring donation payment,Chicago
+2026-08-12,75,Terry Bull,regular payment,Houston
+2026-08-15,20,Will Power,recurring donation payment,Chicago
+2026-08-19,500,Kay Oss,regular payment,New York
+2026-08-21,75,Sue Permarket,regular payment,Los Angeles
+2026-08-21,1000,Warren Peace,regular payment,New York
+2026-08-22,100,Moe Money,recurring donation payment,Phoenix
+2026-08-25,50,Rich Mann,regular payment,Phoenix
+2026-08-27,150,Terry Bull,regular payment,Houston
+2026-08-28,15,Olive Branch,recurring donation payment,Los Angeles
+2026-08-28,428.7,Sal Monella,recurring donation pledge,New York
+2026-08-28,500,Ray Gunn,recurring donation pledge,Chicago
+2026-08-31,75,Mona Lott,regular payment,Chicago
+2026-09-01,50,Bea Generous,recurring donation payment,New York
+2026-09-01,100,Phil Anthropist,regular payment,Phoenix
+2026-09-05,10,Penny Wise,recurring donation payment,New York
+2026-09-06,427.57,Ella Vator,regular payment,Los Angeles
+2026-09-07,5,Fran Tic,regular payment,Phoenix
+2026-09-08,35,Ben Evolent,recurring donation payment,New York
+2026-09-12,25,Owen Cash,recurring donation payment,Chicago
+2026-09-14,10,Warren Peace,regular payment,New York
+2026-09-15,5,Kay Oss,recurring donation pledge,New York
+2026-09-15,20,Will Power,recurring donation payment,Chicago
+2026-09-17,20,Carrie Oakey,regular payment,Phoenix
+2026-09-22,10,Pat Myback,regular payment,Chicago
+2026-09-22,100,Moe Money,recurring donation payment,Phoenix
+2026-09-24,100,Robin Banks,regular payment,Phoenix
+2026-09-28,15,Olive Branch,recurring donation payment,Los Angeles
+2026-09-29,100,Candace Spare,recurring donation pledge,New York
+2026-09-29,100,Dee Posit,recurring donation pledge,Chicago
+2026-10-01,50,Bea Generous,recurring donation payment,New York
+2026-10-02,50,Chris P. Bacon,regular payment,Phoenix
+2026-10-02,65.8,Candace Spare,regular payment,New York
+2026-10-03,590.42,Polly Esther,regular payment,Chicago
+2026-10-03,1000,Robin Banks,regular payment,Phoenix
+2026-10-05,10,Penny Wise,recurring donation payment,New York
+2026-10-06,500,Pat Myback,regular payment,Chicago
+2026-10-07,150,Cash Flo,regular payment,Houston
+2026-10-08,35,Ben Evolent,recurring donation payment,New York
+2026-10-12,25,Owen Cash,recurring donation payment,Chicago
+2026-10-13,366.8,Al Beback,regular payment,Los Angeles
+2026-10-15,20,Will Power,recurring donation payment,Chicago
+2026-10-15,1000,Noah Fence,regular payment,Los Angeles
+2026-10-16,75,Stan Dupp,regular payment,Houston
+2026-10-17,75,Chris P. Bacon,regular payment,Phoenix
+2026-10-19,5,Ima Goodsport,regular payment,New York
+2026-10-22,50,Paige Turner,regular payment,New York
+2026-10-22,100,Moe Money,recurring donation payment,Phoenix
+2026-10-22,100,Ray Gunn,regular payment,Chicago
+2026-10-28,15,Olive Branch,recurring donation payment,
